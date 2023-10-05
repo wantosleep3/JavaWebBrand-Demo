@@ -211,7 +211,6 @@ public class BrandServlet extends BaseServlet {
 		// 	3、响应成功标识
 		response.getWriter().write("success");
 
-		// System.out.println("brand.add...");
 
 	}
 }
