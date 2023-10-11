@@ -1915,7 +1915,6 @@
       <change afterPath="$PROJECT_DIR$/../web-demo/target/web-demo/a.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../web-demo/target/web-demo/index.jsp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/itheima/web/Servlet/BrandServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/itheima/web/Servlet/BrandServlet.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -1966,8 +1965,11 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "全局库",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
     "run.code.analysis.last.selected.profile": "pProject Default",
-    "settings.editor.selected.configurable": "MavenSettings",
+    "settings.editor.selected.configurable": "configurable.group.language",
     "vue.rearranger.settings.migration": "true"
   },
   "keyToStringList": {
@@ -2006,7 +2008,9 @@
       <workItem from="1696405497966" duration="10708000" />
       <workItem from="1696422641729" duration="925000" />
       <workItem from="1696426407613" duration="2896000" />
-      <workItem from="1696485477679" duration="291000" />
+      <workItem from="1696485477679" duration="898000" />
+      <workItem from="1696586152978" duration="56000" />
+      <workItem from="1696604648260" duration="642000" />
     </task>
     <servers />
   </component>
